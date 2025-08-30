@@ -1,30 +1,32 @@
-# Sistema Bancario em Python
+# 🏦 Sistema Bancário em Python
 
-Este é um sistema bancário simples desenvolvido em Python. O objetivo deste projeto é fornecer uma simulação básica de operações bancárias, como criação de contas, depósitos, saques e consultas de saldo.
+Este é um sistema bancário simples desenvolvido em Python.  
+O objetivo deste projeto é fornecer uma **simulação básica de operações bancárias**, como criação de contas, depósitos, saques e consultas de saldo.  
 
-## Funcionalidades
+---
 
-- Criação de contas bancárias
-- Depósitos
-- Saques
-- Consultas de saldo
-- Transferências entre contas
+## ✨ Funcionalidades
 
-## Tecnologias Utilizadas
+- 🆕 Criação de contas bancárias  
+- 💰 Depósitos  
+- 💸 Saques  
+- 📊 Consultas de saldo  
 
-- Python 3.x
-- SQLite (para armazenamento de dados)
+---
 
-## Como Executar
+## 🛠 Tecnologias Utilizadas
 
-1. Clone o repositório
-2. Instale as dependências necessárias
-3. Execute o arquivo `main.py`
+- 🐍 Python 3.x  
+
+---
+
+## 🚀 Como Executar
+
+1. Clone o repositório:
+2. Execute o arquivo `main.py`
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd sistema-bancario
-pip install -r requirements.txt
+git clone https://github.com/alineramosleite/sistema-bancario-python.git
+cd sistema-bancario-python
 python main.py
-
-
+```
